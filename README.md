@@ -52,16 +52,16 @@ The project was developed using Google Colab, so ensure you have the following l
 git clone https://github.com/your-username/market-basket-analysis-for-retailers.git
 ```
 
-## Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Navigate to the project directory:
 
 ```bash
 cd market-basket-analysis-for-retailers
+```
+
+## Install the required libraries:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Run the analysis:
