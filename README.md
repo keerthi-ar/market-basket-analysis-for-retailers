@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ## Run the analysis:
 ```bash
-python market_basket_analysis_for_retailers.ipynb
+jupyter notebook market_basket_analysis_for_retailers.ipynb
 ```
 
 
