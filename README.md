@@ -11,18 +11,18 @@ In this project, we analyze transactional data to uncover patterns in customer p
 
 ### Steps Taken:
 1. Data Exploration and Preprocessing:
-  - Explored and cleaned the dataset by handling missing values and removing irrelevant data.
-  - Converted categorical variables (e.g., product categories) into numerical representations suitable for association rule mining.
+    - Explored and cleaned the dataset by handling missing values and removing irrelevant data.
+    -  Converted categorical variables (e.g., product categories) into numerical representations suitable for association rule mining.
 2. Association Rule Mining:
-  - Applied Apriori and FP-Growth algorithms to identify frequent itemsets and association rules.
-  - Generated association rules with high confidence and lift to find product combinations frequently bought together.
+    - Applied Apriori and FP-Growth algorithms to identify frequent itemsets and association rules.
+    - Generated association rules with high confidence and lift to find product combinations frequently bought together.
 3. Visualization:
-  - Created network diagrams to visually represent the relationships between products based on the association rules.
-  - Analyzed how products are connected and identified key product pairs.
+    - Created network diagrams to visually represent the relationships between products based on the association rules.
+    - Analyzed how products are connected and identified key product pairs.
 4. Recommendation Engine:
-  - Built a recommendation engine that suggests products based on customer purchase history and association rules.
+    - Built a recommendation engine that suggests products based on customer purchase history and association rules.
 5. Seasonality and Trends:
-  - Analyzed the sales data to identify trends and seasonal fluctuations in customer purchasing behavior.
+    - Analyzed the sales data to identify trends and seasonal fluctuations in customer purchasing behavior.
 
 ## Citation
 D. Chen. "Online Retail," UCI Machine Learning Repository, 2015. [Online]. Available: https://doi.org/10.24432/C5BW33.
